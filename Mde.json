@@ -1,0 +1,1234 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 250,
+    "major": 5,
+    "minor": 6,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": false,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "96067b0f-9037-4bfb-9177-a2242e1a7bd3",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "Mde",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [
+      "mobile",
+      "mobile"
+    ],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "Zombie Apocalypse Tileset Reference.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Apocalypse Tileset Reference.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie Apocalypse Tileset Reference2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Apocalypse Tileset Reference2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0183_Capa-184.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0183_Capa-184.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Desktop/Apocalypse Character Pack (1)/Apocalypse Character Pack/Player/Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\Apocalypse Character Pack (1)\\Apocalypse Character Pack\\Player\\Idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Idle.png\",\"extension\":\".png\"}",
+        "name": "Idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "._Zombie Apocalypse Tileset Reference.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "._Zombie Apocalypse Tileset Reference.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "._Zombie-Tileset---_0218_Capa-219.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "._Zombie-Tileset---_0218_Capa-219.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie Apocalypse Tileset Reference3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Apocalypse Tileset Reference3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0369_Capa-370.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0369_Capa-370.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0109_Capa-110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0109_Capa-110.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0110_Capa-111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0110_Capa-111.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0111_Capa-112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0111_Capa-112.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0112_Capa-113.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0112_Capa-113.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0113_Capa-114.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0113_Capa-114.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0114_Capa-115.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0114_Capa-115.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0115_Capa-116.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0115_Capa-116.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0116_Capa-117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0116_Capa-117.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0134_Capa-135.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0134_Capa-135.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0135_Capa-136.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0135_Capa-136.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../../../Desktop/Zombie Apocalypse Tileset/Zombie Apocalypse Tileset/Organized separated sprites/Trees/Zombie-Tileset---_0137_Capa-138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Desktop\\Zombie Apocalypse Tileset\\Zombie Apocalypse Tileset\\Organized separated sprites\\Trees\\Zombie-Tileset---_0137_Capa-138.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0136_Capa-137.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0136_Capa-137.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0137_Capa-138.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0137_Capa-138.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0138_Capa-139.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0138_Capa-139.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0139_Capa-140.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0139_Capa-140.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0140_Capa-141.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0140_Capa-141.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0141_Capa-142.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0141_Capa-142.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0142_Capa-143.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0142_Capa-143.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie Apocalypse Tileset Reference4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Zombie Apocalypse Tileset Reference4.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Zombie Apocalypse Tileset Reference4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Zombie-Tileset---_0126_Capa-127.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-Tileset---_0126_Capa-127.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ]
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Untitled_32scene",
+      "name": "Untitled scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 16,
+        "gridHeight": 16,
+        "gridDepth": 16,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 2.060679135269524,
+        "windowMask": true,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_1",
+          "persistentUuid": "61922cdb-02cf-48ae-8f00-569dccf4e538",
+          "width": 112,
+          "x": 720,
+          "y": 240,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 81,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass2",
+          "persistentUuid": "985f3fb6-6ad0-4e6e-a7bb-e00aa7b52aed",
+          "width": 48,
+          "x": 832,
+          "y": 240,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 77,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass5",
+          "persistentUuid": "474e1949-eb5d-4c0f-a67d-93b781179ff2",
+          "width": 81,
+          "x": 880,
+          "y": 243,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass7",
+          "persistentUuid": "58f52600-f43a-4875-998d-7214f1ed5d7a",
+          "width": 48,
+          "x": 768,
+          "y": 240,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree1",
+          "persistentUuid": "96d5ef38-c5b5-4e9e-bfda-391b2c2b8df7",
+          "width": 16,
+          "x": 848,
+          "y": 240,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree1",
+          "persistentUuid": "9e8fc358-ef23-463d-a45e-a6fe0ab5a83d",
+          "width": 0,
+          "x": 864,
+          "y": 288,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree2",
+          "persistentUuid": "fd0869fb-6670-43d2-b9c1-4ec205c8a3a3",
+          "width": 0,
+          "x": 832,
+          "y": 240,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree4",
+          "persistentUuid": "0629f98d-c85f-45d5-b676-3a34d0d7127a",
+          "width": 7,
+          "x": 966,
+          "y": 288,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree3",
+          "persistentUuid": "76e733a8-7cdd-4748-b647-8e7e0bb37ac7",
+          "width": 16,
+          "x": 961,
+          "y": 272,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree5",
+          "persistentUuid": "2faaa79d-12f6-46b9-9f44-29f4aa630a57",
+          "width": 0,
+          "x": 961,
+          "y": 303,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree6",
+          "persistentUuid": "3495c0bb-cafb-4a2d-9daa-d9574b0afad9",
+          "width": 16,
+          "x": 892,
+          "y": 350,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 8,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree7",
+          "persistentUuid": "ec2b4e78-0cd7-4d06-b7ff-5f4cf87a3b67",
+          "width": 16,
+          "x": 906,
+          "y": 350,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree7",
+          "persistentUuid": "0d1be03d-ad64-4d43-a7f2-c78b6ad28a66",
+          "width": 0,
+          "x": 922,
+          "y": 350,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree6",
+          "persistentUuid": "3e8362b3-6b7c-44ff-9598-248f44b1550e",
+          "width": 0,
+          "x": 985,
+          "y": 360,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree7",
+          "persistentUuid": "9f98b94c-a821-479c-a552-140661ffac78",
+          "width": 0,
+          "x": 975,
+          "y": 383,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree5",
+          "persistentUuid": "a6bd7d23-639d-44a2-a89a-4ea4578b3a01",
+          "width": 0,
+          "x": 981,
+          "y": 340,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree4",
+          "persistentUuid": "bdd14639-d4d4-4a43-9337-c9c675bd6715",
+          "width": 0,
+          "x": 990,
+          "y": 325,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree3",
+          "persistentUuid": "74d77ac6-f7eb-49d0-bfc6-9cc1b52b999a",
+          "width": 0,
+          "x": 972,
+          "y": 285,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree2",
+          "persistentUuid": "6f3ea0b6-3ae3-494c-ae1d-57e8fe129d97",
+          "width": 0,
+          "x": 993,
+          "y": 297,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree1",
+          "persistentUuid": "15f7a1c9-4db5-403a-9815-2ec389387ecb",
+          "width": 0,
+          "x": 1002,
+          "y": 258,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_1",
+          "persistentUuid": "355b7dad-9cff-460c-a0ed-98f9d0d96737",
+          "width": 80,
+          "x": 736,
+          "y": 192,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_1",
+          "persistentUuid": "76c717bc-7a98-4f92-bd78-6fb4b1a59a21",
+          "width": 48,
+          "x": 896,
+          "y": 192,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass2",
+          "persistentUuid": "6e824e19-f22e-4ebd-bcb7-4002e6dd9665",
+          "width": 0,
+          "x": 864,
+          "y": 192,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass3",
+          "persistentUuid": "a54dfda8-9f8a-4594-8562-69b2b13ea7d0",
+          "width": 0,
+          "x": 832,
+          "y": 192,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass5",
+          "persistentUuid": "e8ce2bef-3cc4-42ee-a9e7-2233122c6d52",
+          "width": 0,
+          "x": 768,
+          "y": 192,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass6",
+          "persistentUuid": "ebf53c09-9ad2-45ae-b88f-75dac6cfa3e9",
+          "width": 0,
+          "x": 800,
+          "y": 192,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass8",
+          "persistentUuid": "dcd31689-cdb4-401f-a71f-f835c3a0d09f",
+          "width": 0,
+          "x": 736,
+          "y": 192,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_1",
+          "persistentUuid": "1a111656-19e9-4db5-a985-4d2d0faa2c77",
+          "width": 64,
+          "x": 848,
+          "y": 256,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass_1",
+          "texture": "Zombie-Tileset---_0109_Capa-110.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass2",
+          "texture": "Zombie-Tileset---_0110_Capa-111.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass3",
+          "texture": "Zombie-Tileset---_0111_Capa-112.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass4",
+          "texture": "Zombie-Tileset---_0112_Capa-113.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass5",
+          "texture": "Zombie-Tileset---_0113_Capa-114.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass6",
+          "texture": "Zombie-Tileset---_0114_Capa-115.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass7",
+          "texture": "Zombie-Tileset---_0115_Capa-116.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Grass8",
+          "texture": "Zombie-Tileset---_0116_Capa-117.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "Tree1",
+          "texture": "Zombie-Tileset---_0134_Capa-135.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "Tree2",
+          "texture": "Zombie-Tileset---_0135_Capa-136.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "Tree3",
+          "texture": "Zombie-Tileset---_0136_Capa-137.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "Tree4",
+          "texture": "Zombie-Tileset---_0137_Capa-138.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 7,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "Tree5",
+          "texture": "Zombie-Tileset---_0138_Capa-139.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 8,
+          "name": "Tree6",
+          "texture": "Zombie-Tileset---_0139_Capa-140.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 8,
+          "name": "Tree7",
+          "texture": "Zombie-Tileset---_0140_Capa-141.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 12,
+          "name": "Tree8",
+          "texture": "Zombie-Tileset---_0141_Capa-142.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 14,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 13,
+          "name": "Tree9",
+          "texture": "Zombie-Tileset---_0142_Capa-143.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 16,
+          "name": "Fence1",
+          "texture": "Zombie-Tileset---_0126_Capa-127.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 16,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Grass_1"
+          },
+          {
+            "objectName": "Grass2"
+          },
+          {
+            "objectName": "Grass3"
+          },
+          {
+            "objectName": "Grass4"
+          },
+          {
+            "objectName": "Grass5"
+          },
+          {
+            "objectName": "Grass6"
+          },
+          {
+            "objectName": "Grass7"
+          },
+          {
+            "objectName": "Grass8"
+          },
+          {
+            "objectName": "Tree1"
+          },
+          {
+            "objectName": "Tree2"
+          },
+          {
+            "objectName": "Tree3"
+          },
+          {
+            "objectName": "Tree4"
+          },
+          {
+            "objectName": "Tree5"
+          },
+          {
+            "objectName": "Tree6"
+          },
+          {
+            "objectName": "Tree7"
+          },
+          {
+            "objectName": "Tree8"
+          },
+          {
+            "objectName": "Tree9"
+          },
+          {
+            "objectName": "Fence1"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Untitled_32scene2",
+      "name": "Untitled scene2",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": []
+}
